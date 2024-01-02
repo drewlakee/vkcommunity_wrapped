@@ -1,8 +1,8 @@
 ## VK Community Wrapped
 
-Bunch of script for data calculation. 
+Bunch of scripts for data calculation. 
 
-Source of calculation expected to be raw json from [VK API](https://dev.vk.com/en/method) (wall.get, wall.getComments etc.)
+Source of calculation expected to be dowloaded raw json from [VK API](https://dev.vk.com/en/method) (wall.get, wall.getComments etc.)
 
 ## Usage
 
